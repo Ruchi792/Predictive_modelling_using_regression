@@ -6,9 +6,16 @@ Projects Overview
 Each Jupyter Notebook in this repository demonstrates a different use case where predictive analytics is applied using linear, multiple, or logistic regression among other techniques
 
 Key Techniques Used
+
 Exploratory Data Analysis (EDA)
+
 Data Preprocessing & Feature Engineering
+
 Simple & Multiple Linear Regression
+
 Logistic Regression
+
 Model Evaluation Metrics (R², RMSE, Accuracy, Confusion Matrix)
+
 Visualization with Seaborn & Matplotlib
+
